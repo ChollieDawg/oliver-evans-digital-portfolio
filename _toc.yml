@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Information
+    chapters:
+      - file: about_me.md
+      - file: education.md
+      - file: resume.md
+  - caption: Examples of Work
+    chapters:
+      - file: machine_learning2.ipynb
+      - file: poshmark_automation.md
+      - file: data_visulization.ipynb
+      - file: citations.md

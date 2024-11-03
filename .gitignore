@@ -1,0 +1,6 @@
+_build/
+_site/
+.doctrees/
+.jupyter_cache/
+**/.ipynb_checkpoints
+*.log
