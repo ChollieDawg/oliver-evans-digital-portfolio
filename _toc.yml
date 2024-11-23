@@ -13,5 +13,5 @@ parts:
     chapters:
       - file: machine_learning2.ipynb
       - file: poshmark_automation.md
-      - file: data_visulization.ipynb
+      - file: data_visualization.ipynb
       - file: citations.md
