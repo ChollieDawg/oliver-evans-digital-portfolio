@@ -1,6 +1,6 @@
 # Poshmark Automation
 
-[Here ia a Youtube link (11:06 long), with a brief explanation of my code base and a demo of it running](https://www.youtube.com/watch?v=ubEhBm30mq8)
+[Here is a Youtube link (11:06 long), with a brief explanation of my code base and a demo of it running](https://www.youtube.com/watch?v=ubEhBm30mq8)
 
 
 [Here is a link to my GitHub Gist repo to see the code](https://gist.github.com/ChollieDawg/fc9015be63caaca0f82c7f759bbeee65)

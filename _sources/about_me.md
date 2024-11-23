@@ -1,14 +1,14 @@
 # About Me
 
-I have a deep passion for technology, data, and coding, and thrive in environments where I can continuously learn, teach, and innovate. Among my colleagues, I am known for my dedication, approachable nature, and commitment to refining my skills—especially in areas like data analysis, automation, and problem-solving. I enjoy exploring data and transforming my knowledge into actionable insights and finding efficient solutions to routine tasks.
+I have a deep passion for technology, data, and coding, and I thrive in environments where I can continuously learn, teach, and innovate. Among my colleagues, I am known for my dedication, approachable nature, and commitment to refining my skills—especially in areas like data analysis, automation, and problem-solving. I enjoy exploring data, transforming my knowledge into actionable insights, and finding efficient solutions to routine tasks.
 
-Currently, I'm expanding my knowledge in Linux, the Metasploit framework, and Selenium automation, which complement my skills and deepen my technical expertise.
+I'm currently expanding my knowledge in Linux, the Metasploit framework, and Selenium automation, which complement my skills and deepen my technical expertise.
 
 I am originally from the South Coast of England near Brighton and in 2008, I relocated to Whistler, BC, to follow my passion for snowboarding. I proudly became a Canadian citizen in 2015. 
 
 Explore my skills and interests below to see how I can add value to data-driven roles.
 
-:::{admonition} My skills and interests in the below grids each have on-hover tooltips for more detail (click dropdown below for an example).
+:::{admonition} My skills and interests in the below grids each have on-hover tooltips for more detail (click the dropdown below for an example).
 :class: tip, dropdown
 ![Tooltip Example](./img/tooltip_example.PNG)  
 :::
@@ -68,7 +68,7 @@ Explore my skills and interests below to see how I can add value to data-driven 
     </td>
     <td>
       <ul>
-        <li><span title="Developed , queried and maintained cubes. Created SSIS packages, as well as scripts to ETL via Python. Generated reports via SSRS">SSAS / SSIS / SSRS</span></li>
+        <li><span title="Developed, queried, and maintained cubes. Created SSIS packages, and scripts for ETL via Python. Generated reports via SSRS">SSAS / SSIS / SSRS</span></li>
       </ul>
     </td>
   </tr>
@@ -87,7 +87,7 @@ Explore my skills and interests below to see how I can add value to data-driven 
   <tr>
     <td>
       <ul>
-        <li><span title="Attend weekly Data Managment Committes and discuss issues and solutions">Data Management</span></li>
+        <li><span title="Attend weekly Data Management Committee and discuss issues and solutions">Data Management</span></li>
       </ul>
     </td>
     <td>
@@ -104,7 +104,7 @@ Explore my skills and interests below to see how I can add value to data-driven 
     </td>
     <td>
       <ul>
-        <li><span title="Held roles within Tech Support 1/2 as well as providing on-going support to users of my dashboards and reports">Technical Support</span></li>
+        <li><span title="Held roles within Tech Support 1/2 as well as providing ongoing support to users of my dashboards and reports">Technical Support</span></li>
       </ul>
     </td>
    </tr>
@@ -122,7 +122,7 @@ Explore my skills and interests below to see how I can add value to data-driven 
     </td>
     <td>
       <ul>
-        <li><span title="Approach challenges methodically to find data driven solutions">Problem Solver</span></li>
+        <li><span title="Approach challenges methodically to find data-driven solutions">Problem Solver</span></li>
       </ul>
     </td>
   </tr>
@@ -159,7 +159,7 @@ Explore my skills and interests below to see how I can add value to data-driven 
   <tr>
     <td>
       <ul>
-        <li><span title="Used for machine learning, exploratory data analysis, regulatory reporting and Github integration">Jupyter Lab</span></li>
+        <li><span title="Used for machine learning, exploratory data analysis, regulatory reporting, and GitHub integration">Jupyter Lab</span></li>
       </ul>
     </td>
     <td>
@@ -171,24 +171,24 @@ Explore my skills and interests below to see how I can add value to data-driven 
   <tr>
     <td>
       <ul>
-        <li><span title="Experience with Sales Tracking as well as data analysis, mining and report generation from CRMs">SalesForce</span></li>
+        <li><span title="Experience with Sales Tracking as well as data analysis, mining, and report generation from CRMs">SalesForce</span></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><span title="Created and maintained 20+ enterprize dashboards as well as adminstering Production, QA and Development servers">Microsoft Power BI</span></li>
+        <li><span title="Created and maintained 20+ enterprise dashboards as well as administering Production, QA and Development servers">Microsoft Power BI</span></li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
       <ul>
-        <li><span title="The first data visulization tool I learnt. Not as much experience with it as Power BI, but still able to build effective visulizations">Tableau</span></li>
+        <li><span title="The first data visualization tool I learned. Not as much experience with it as Power BI, but still able to build effective visualizations">Tableau</span></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><span title="Used for environment management to build Python based solutions">Anaconda</span></li>
+        <li><span title="Used for environment management to build Python-based solutions">Anaconda</span></li>
       </ul>
     </td>
   </tr>
@@ -200,19 +200,19 @@ Explore my skills and interests below to see how I can add value to data-driven 
     </td>
     <td>
       <ul>
-        <li><span title="My main machine learning library - used for a number of projects such as fraud detection, the Titanic survivor prediction list and cheese analysis">Sci-Kit Learn</span></li>
+        <li><span title="My main machine learning library - used for several projects such as fraud detection, the Titanic survivor prediction list, and cheese analysis">Sci-Kit Learn</span></li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
       <ul>
-        <li><span title="My most used libraries. I am comfortable with dataframes, combining data and applying functions at row level to wrangle data">Pandas / Numpy</span></li>
+        <li><span title="My most used libraries. I am comfortable with data frames, combining data, and applying functions at row level to wrangle data">Pandas / Numpy</span></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><span title="I have created, hosted and maintained a number of websites">Wordpress</span></li>
+        <li><span title="I have created, hosted, and maintained several websites">WordPress</span></li>
       </ul>
     </td>
   </tr>
@@ -270,7 +270,7 @@ Explore my skills and interests below to see how I can add value to data-driven 
   <tr>
     <td>
       <ul>
-        <li><span title="From building my own PC to a custom Raspberry Pi air quality sensor linked to a home server (via flask library in Python) - I love to build projects and play with technology!">Building Hardware</span></li>
+        <li><span title="From building my PC to a custom Raspberry Pi air quality sensor linked to a home server (via flask library in Python) - I love to build projects and play with technology!">Building Hardware</span></li>
       </ul>
     </td>
     <td>
@@ -282,12 +282,12 @@ Explore my skills and interests below to see how I can add value to data-driven 
   <tr>
     <td>
       <ul>
-        <li><span title="I love sci-fi and Some of my favourites include The Culture Series (Iain Banks) and Bobiverse (Dennis E. Taylor). I also love science based books and recently enjoyed A Universe from Nothing (Lawrence M. Krauss) and The Selfish Gene (Richard Dawkins). Another book which I recommend reading for others in the IT industry is The Phoenix Project (Gene Kim, George Spafford, and Kevin Behr)">Reading / Audiobooks</span></li>
+        <li><span title="I love sci-fi and Some of my favorites include The Culture Series (Iain Banks) and Bobiverse (Dennis E. Taylor). I also love science-based books and recently enjoyed A Universe from Nothing (Lawrence M. Krauss) and The Selfish Gene (Richard Dawkins). Another book that I recommend reading for others in the IT industry is The Phoenix Project (Gene Kim, George Spafford, and Kevin Behr)">Reading / Audiobooks</span></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><span title="I listen to a lot of science and technology based podcasts suich as Into the Impossible - Brian Keating, Lex Friedman Podcast, This Week in Tech (Leo Laporte) and Security Now (Steve Gibson).">Podcasts</span></li>
+        <li><span title="I listen to a lot of science and technology-based podcasts such as Into the Impossible - Brian Keating, Lex Friedman Podcast, This Week in Tech (Leo Laporte), and Security Now (Steve Gibson).">Podcasts</span></li>
       </ul>
     </td>
   </tr>
@@ -299,19 +299,19 @@ Explore my skills and interests below to see how I can add value to data-driven 
     </td>
     <td>
       <ul>
-        <li><span title="I love dogs and try to get out every day for an hour long walk">Dog Walking</span></li>
+        <li><span title="I love dogs and try to get out every day for an hour-long walk">Dog Walking</span></li>
       </ul>
     </td>
   </tr>
    <tr>
     <td>
       <ul>
-        <li><span title="I enjoy playing online games with friends. Some of my favourites are Factorio, Escape from Tarkov, League of Legends and Barotrauma">Video Games</span></li>
+        <li><span title="I enjoy playing online games with friends. Some of my favorites are Factorio, Escape from Tarkov, League of Legends and Barotrauma">Video Games</span></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><span title="I am most satisfied when I am learning and applying new skills. I particularly enjoy setting about a new project and learning as I go">Learning and Applying New Things</span></li>
+        <li><span title="I am most satisfied when learning and applying new skills. I particularly enjoy setting about a new project and learning as I go">Learning and Applying New Things</span></li>
       </ul>
     </td>
   </tr>

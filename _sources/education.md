@@ -1,7 +1,7 @@
 # Education
 As a lifelong learner, I'm always engaged in a personal project or enrolled in formal education. Below, you'll find a list of my formal education along with a selection of my projects.
 
-In 2017, you'll notice a significant shift in my focus from finance to IT-based learning. My journey into coding began in 2016, when I started building basic websites using HTML and CSS to gain foundational skills. Later that year, my cousin introduced me to Tableau and SQL, sparking my interest in data manipulation—a field I had only touched on during university studies. After experimenting with AdventureWorks, setting up MS SQL Server, and practicing SQL through Khan Academy, I discovered a passion for data and set a goal to become a Business Intelligence Analyst.
+In 2017, you'll notice a significant shift in my focus from finance to IT-based learning. My journey into coding began in 2016 when I started building basic websites using HTML and CSS to gain foundational skills. Later that year, my cousin introduced me to Tableau and SQL, sparking my interest in data manipulation—a field I had only touched on during university studies. After experimenting with AdventureWorks, setting up MS SQL Server, and practicing SQL through Khan Academy, I discovered a passion for data and set a goal to become a Business Intelligence Analyst.
 
 In preparation for my studies at BCIT, I immersed myself in learning by reading various books, including <a href="https://www.oreilly.com/library/view/training-kit-exam/9780735667259/" target="_blank">Training Kit (Exam 70-461): Querying Microsoft® SQL Server® 2012</a> and <a href="https://automatetheboringstuff.com/" target="_blank">Automate the Boring Stuff with Python</a>. As my Python skills improved, I furthered my education through <a href="https://www.youtube.com/@mitocw/playlists" target="_blank">MIT OpenCourseWare</a>, particularly their computer science course, and delved into their recommended reading <a href="https://mitpress.mit.edu/9780262542364/introduction-to-computation-and-programming-using-python/" target="_blank">Introduction to Computation and Programming Using Python, third edition</a>. This resource was both insightful and occasionally humorous, offering valuable perspectives on how to think about programming.
 
@@ -11,7 +11,7 @@ Today, I feel confident building custom programs in Python using a wide variety 
 
 ::::{margin}
 :::{admonition} Quote by Peter Drucker
->"We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn." - Peter Drucker
+>"We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn." - Peter Drucker.
 :::
 ::::
 
@@ -28,7 +28,7 @@ Today, I feel confident building custom programs in Python using a wide variety 
 <a href="https://www.bcit.ca/" target="_blank">Visit British Columbia Institute of Technology</a>
 :::
 ::::
-The BC government recently came out with the <a href="https://strongerbc.gov.bc.ca/" target="-blank">StrongerBC Future Skills</a> grant which allows residents to obtain up to $3,500 in grants for in demand education from learninng institutions around BC. I checked through the courses and was delighted to find IT security, something that I have had an interest in for a number of years.
+The BC government recently came out with the <a href="https://strongerbc.gov.bc.ca/" target="-blank">StrongerBC Future Skills</a> grant which allows residents to obtain up to $3,500 in grants for in-demand education from learning institutions around BC. I checked through the courses and was delighted to find IT security, something that I have had an interest in for a number of years.
 
 Below are the modules taken with a description.
 
@@ -80,7 +80,7 @@ Learned to derive data-driven insights through creating visualizations and summa
 ```
 ```{dropdown} The Data Science Toolbox 
 - Gained hands-on experience with essential data science tools, including Git, GitHub, Jupyter Notebooks, and Visual Studio Code.
-- Developed skills in code versioning, project organization, and collaboration using code sharing platforms.
+- Developed skills in code versioning, project organization, and collaboration using code-sharing platforms.
 - Learned to create and manage reproducible electronic reports and presentation software containing Python code.
 - Acquired proficiency in setting up and maintaining project environments, including installing essential software and creating shareable compute environments (e.g., Conda environments).
 ```
@@ -100,7 +100,7 @@ Learned to derive data-driven insights through creating visualizations and summa
 <a href="https://www.blueshorefinancial.com/" target="_blank">Visit BlueShore Financial</a>
 :::
 ::::
-A 10 month course with hands on tutoring, in class lessons from guest and professional trainers which culminated as a Dragons Den style presentation to the executives on a chosen project in a group of 4 from different areas of the organisation. The specific training focussed on:
+A 10-month course with hands-on tutoring, and in-class lessons from guest and professional trainers, culminated in a Dragons Den-style presentation to the executives on a chosen project in a group of 4 from different areas of the organization. The specific training focussed on:
 - Writing reports and proposals
 - EQ-i 2.0 Model of Emotional Intelligence
 - Growth Mindset - including reading <a href="https://www.goodreads.com/book/show/40745.Mindset" target="_blank">Mindset: The New Psychology of Success -
@@ -133,14 +133,14 @@ Below are the modules taken with a description.
 
 ```{dropdown} Relational Database Design and SQL
 - Gained foundational knowledge in relational database design, including functional dependencies, normalization, and entity relationship modeling.
-- Developed proficiency in SQL for data definition, manipulation, and advanced features like views, security, and transaction management.
+- Gained expertise in SQL, focusing on data definition, manipulation, and advanced capabilities such as views, security, and transaction management.
 - Applied industry standards and tools for data modeling in Relational Database Management Systems (RDBMS).
 - Engaged in hands-on projects and group work, designing and implementing database applications.
 - Explored advanced database topics, including data warehousing, OLAP, and cloud-based database solutions.
 ```
 ```{dropdown} Business Analysis and Systems Design
 - Studied concepts, processes, and tools for planning and developing information systems to industry standards, with a focus on the Software Development Life Cycle (SDLC).
-- Gained experience in analyzing business requirements, data and process modeling, and using Object-Oriented Modeling techniques with UML.
+- Acquired experience in analyzing business requirements, modeling data and processes, and applying Object-Oriented Modeling techniques using UML.
 - Worked in teams to initiate system processes, document communication plans, and create logical designs.
 - Acquired foundational skills for project management and systems analysis, preparing for advanced courses in Agile Methods and Scrum Framework.
 - Developed strong communication and presentation skills through group work and detailed documentation of system designs.
@@ -187,14 +187,14 @@ Below are the modules taken with a description.
 - Gained hands-on experience in planning and implementing security policies, server backups, and recovery plans using Microsoft’s built-in tools.
 - Completed comprehensive labs focused on server administration, including monitoring, troubleshooting, and compliance strategies.
 - Prepared for advanced courses in Microsoft SQL Server Administration and Microsoft Windows Server Administration.
-- Specialized in designing, deploying, and administering MS SQL Server 2019 databases, with a focus on optimizing and maintaining high-availability database solutions.
+- Designed and managed MS SQL Server 2019 databases, focusing on performance optimization and high availability.
 - Gained hands-on experience in MS SQL Server installation, configuration, and physical database design, including Role-Based Access Control (RBAC) and security best practices.
 - Developed skills in planning and implementing server security policies, backups, and recovery plans using Microsoft’s built-in tools.
 - Completed in-depth labs and exercises on server troubleshooting, performance monitoring, and migration planning to newer SQL Server versions.
 - Prepared for advanced roles in database administration.
 ```
 ````
-````{dropdown}  Financial Protection , Charteted Insurance Institute, 2016
+````{dropdown}  Financial Protection, Chartered Insurance Institute, 2016
 
 ::::{grid}
 
@@ -262,7 +262,7 @@ Expand both Financial Planning 1 and 2 for a description of the syllabus.
 
 ```{dropdown} Financial Planning 2
 - Personal Financial Planning Process: Explored the evolution of financial planning in Canada, including ethics, client responsibility, and the financial planning process.
-- Net Worth and Cash Management: Assessed clients’ wealth planning needs by creating budgets, savings plans, and evaluating creditworthiness.
+- Net Worth and Cash Management: Assessed clients’ wealth planning needs by creating budgets, and savings plans, and evaluating creditworthiness.
 - Debt Planning: Developed strategies for managing and reducing debt, including the use of credit, refinancing, and borrowing for investment.
 - Financial Planning and Mortgages: Advised on legal considerations, mortgage planning, and strategies to reduce interest costs.
 - Investment Management: Applied modern portfolio theory to asset allocation and evaluated investment performance against benchmarks.
@@ -297,7 +297,7 @@ Expand both Financial Planning 1 and 2 for a description of the syllabus.
 :::
 ::::
 
-The syllabus is decribed below:
+The syllabus is described below:
 
 Canadian Investment Marketplace:
 
@@ -365,12 +365,12 @@ Modules included:
 
 - Business Research
 - Entrepreneurship: New Business Planning
-- Disseration
+- Dissertation
 - Financial Statement Analysis
 - Human Resource Management
 - Managing Organisations
 - E-Commerce
-- Marketing, Innovation and New Product Development
+- Marketing, Innovation, and New Product Development
 - Business Process Management
 - The European Marketplace
 - Strategic Management
@@ -379,29 +379,29 @@ Modules included:
 
 ## Personal Projects
 
-Below are a list of projects I have undertaken to improve my learning.
+Below is a list of projects I have undertaken to improve my learning.
 
 ::::{margin}
 :::{admonition} Quote by Frank Herbert
->"One learns from books and example only that certain things can be done. Actual learning requires that you do those things." - Frank Herbert
+>"One learns from books and examples only that certain things can be done. Actual learning requires that you do those things." - Frank Herbert.
 :::
 ::::
 
 ```{dropdown} Python Automation of Poshmark Account
 **Overview**
 
-My wife enjoys buying and selling things online, particularly on a website called Poshmark. Poshmark is a social media selling platform where users are encouraged to follow, share, like and generally just click a lot of buttons to esculate their Poshmark status. Seeing this, I realised it would be a great opportunity for a project to automate this. Of course, there are repos on Github that do similar things and paid services for $30 USD  a month or so - but I didn't see all the features that I wanted and I can't pass up a good opportunity to learn, so I set about building this and I have actually showcased this project in my [Examples of Work](./poshmark_automation.md) section below.
+My wife enjoys buying and selling things online, particularly on a website called Poshmark. Poshmark is a social media selling platform where users are encouraged to follow, share, like, and generally just click a lot of buttons to escalate their Poshmark status. Seeing this, I realized it would be a great opportunity for a project to automate this. Of course, there are repos on Github that do similar things and paid services for $30 USD  a month or so - but I didn't see all the features that I wanted and I can't pass up a good opportunity to learn, so I set about building this and I have actually showcased this project in my [Examples of Work](./poshmark_automation.md) section below.
 
 **What I did**
 - Researched the platform to understand what metrics would allow a user to increase their rating on Poshmark.
-- Build a program which would login to the platform and perform these various actions such as like, follow, sharing of other users items and sharing of my items. Within these features, I made sure to build in various rules and logic such as only sharing 5 items per follower, or only sharing 10% of my own items per day, and making sure that those items of mine that I was sharing were not previously shared in the last 2 days.
-- To help with the logic, I build a database to record all the interactions that other users had with me, as well as the interactions I made with my own 'Closet' (list of items you are selling) - which enabled me to query the database to returns lists of users or items which met criteria I was looking for, which then fed into various functions.
+- Build a program that would log in to the platform and perform various actions such as liking, following, sharing other users' items, and sharing my items. Within these features, I made sure to build in various rules and logic such as only sharing 5 items per follower, or only sharing 10% of my own items per day, and making sure that those items of mine that I was sharing were not previously shared in the last 2 days.
+- To help with the logic, I built a database to record all the interactions that other users had with me, as well as the interactions I made with my own 'Closet' (list of items you are selling) - which enabled me to query the database to returns lists of users or items which met criteria I was looking for, which then fed into various functions.
 
 ::::{tab-set}
 :::{tab-item} What I learned
-- I learnt a lot about element selection on webpages and how to handle or targeet what I needed. For example, sometimes Javascript would load things up after an action occurred which would mean that the script would have to wait for this to happen first, or it could error.
-- Bot detection. Once I finished the basics of my program and it was running reliably, I quickly realised that Poshmark had detected my program was a bot as was asking for a Captcha to be completed at login or random times using the website. This lead me to investigate and discover how and why these browsers can be discovered as well as stumbling across a number of libraries which would help resolve this. The one I settled on was Undetected_Chromedriver. I liked this solution as it was based on Selenium which I was already using and as a result, the process to swap to this library only took 5 minutes (once I realised it was an appropriate solution!).
-- The more I got into the project, the longer my roadmap for new features has become! Knowing more about the platform and understanding how much wife would use it has allowed me to bring in other aspects of automation which I was not initially thinking about. For example, I have since build a flask server which allows the user to upload photos, videos and descriptions of an item. Once a button is clicked, it then will post the item simaltaneously to different websites including Poshmark, Wordpress, Instagram and Square. I am still to implement features such as automatic removal of an item based on selling it on Square.
+- I learned a lot about element selection on web pages and how to handle or target what I needed. For example, sometimes Javascript would load things up after an action occurred which would mean that the script would have to wait for this to happen first, or it could error.
+- Bot detection. Once I finished the basics of my program and it was running reliably, I quickly realized that Poshmark had detected my program was a bot as was asking for a Captcha to be completed at login or random times using the website. This led me to investigate and discover how and why these browsers can be discovered as well as stumbling across a number of libraries that would help resolve this. The one I settled on was Undetected_Chromedriver. I liked this solution as it was based on Selenium which I was already using and as a result, the process to swap to this library only took 5 minutes (once I realized it was an appropriate solution!).
+- The more I got into the project, the longer my roadmap for new features has become! Knowing more about the platform and understanding how much my wife would use it has allowed me to bring in other aspects of automation that I was not initially thinking about. For example, I have since built a flask server that allows the user to upload photos, videos, and descriptions of an item. Once a button is clicked, it then will post the item simultaneously to different websites including Poshmark, WordPress, Instagram, and Square. I am still to implement features such as the automatic removal of an item based on selling it on Square.
 :::
 :::{tab-item} Tools I used
 - Python
@@ -411,7 +411,7 @@ My wife enjoys buying and selling things online, particularly on a website calle
 - SQLite
 :::
 :::{tab-item} What Would I Do Differently Next Time?
-- Planning out the workflow from the start would have been useful. This projects scope has been constantly growing since day 1. I am pleased that I have worked through it and have a good solution but the scope creep at times could feel overwhelming, even if it was my own scope creep.
+- Planning out the workflow from the start would have been useful. This project scope has been constantly growing since day 1. I am pleased that I have worked through it and have a good solution but the scope creep at times could feel overwhelming, even if it was my own scope creep.
 :::
 ::::
 ```
@@ -419,18 +419,18 @@ My wife enjoys buying and selling things online, particularly on a website calle
 ```{dropdown} Create an Air Quality Monitor from a Raspberry Pi 
 **Overview**
 
-With the forest fires increasing in frequency in Western North America, I wanted to monitor the air quality within our apartment to understand how bad it could get and provide an easy to get to location to view this data.
+With the forest fires increasing in frequency in Western North America, I wanted to monitor the air quality within our apartment to understand how bad it could get and provide an easy-to-get location to view this data.
 
 **What I did**
 - I purchased a <a href="https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/" target="_blank">Raspberry Pi Model B</a>, <a href="https://shop.pimoroni.com/products/enviro?variant=31155658457171" target="_blank">an Enviro+ board</a> and <a href="https://shop.pimoroni.com/products/sgp30-air-quality-sensor-breakout?variant=30924091719763" target="_blank">PMS5003 Particulate Matter Sensor</a> as well as a hardware kit to screw together.
-- Once I had the Raspberry Pi, I loaded Linux onto it and began working with the sensor to understand the libary.
-- I then created a script which measured various sized of particulate matter at intervals throughout the day and plotted them to a chart which I then hosted on a home flask server so that I could just log into it from the local area network.
+- Once I had the Raspberry Pi, I loaded Linux onto it and began working with the sensor to understand the library.
+- I then created a script that measured various sizes of particulate matter at intervals throughout the day and plotted them to a chart which I then hosted on a home flask server so that I could just log into it from the local area network.
 
 ::::{tab-set}
 :::{tab-item} What I learned
-- I learnt about the Linux OS and the quirks of trying to fix broken things.
-- Fixing the the hardware together was a little tricky and ultimately I didn't provide the Raspberry Pi a permanent housing which meant it was sat exposed on my desk for some time. Evenutally I knocked it and broke a connection on the board! Next time, once the hardware is fully constructed, I will look to provide it with a practical case sooner rather then later.
-- I learnt more about particulate matter in the air and saw how quickly it can change. I subsequently purchased multiple air filters to reduce the particulate matter.
+- I learned about the Linux OS and the quirks of trying to fix broken things.
+- Fixing the the hardware together was a little tricky and ultimately I didn't provide the Raspberry Pi a permanent housing which meant it sat exposed on my desk for some time. Eventually, I knocked it and broke a connection on the board! Next time, once the hardware is fully constructed, I will look to provide it with a practical case sooner rather than later.
+- I learned more about particulate matter in the air and saw how quickly it can change. I subsequently purchased multiple air filters to reduce the particulate matter.
 - This was my first attempt at using a Flask server and I was surprised at how quickly I was able to bring it together.
 
 :::
@@ -449,23 +449,23 @@ With the forest fires increasing in frequency in Western North America, I wanted
 ```
 
 
-```{dropdown} Extract, Transform and Load Financial Data to a Custom Database for Data Analytics
+```{dropdown} Extract, Transform, and Load Financial Data to a Custom Database for Data Analytics
 **Overview**
 
-I wanted a centralised location to track my stock investments - particularly the dividends which I received. The problem was that for various reasons, I had both mine and my wifes accounts over multiple platforms. The goal was to bring this data together into 1 database.
+I wanted a centralized location to track my stock investments - particularly the dividends that I received. The problem was that for various reasons, I had both my and my wife's accounts on multiple platforms. The goal was to bring this data together into 1 database.
 
 **What I did**
-- Designed a database to <a href="https://en.wikipedia.org/wiki/Third_normal_form" target="_blank">third normal form</a> using a database design tool. Specific features of the database I needed to have were things such as the broker, account owner, stock details such as purchase price, dividends and industry.
+- Designed a database to <a href="https://en.wikipedia.org/wiki/Third_normal_form" target="_blank">third normal form</a> using a database design tool. Specific features of the database I needed to have were things such as the broker, account owner, stock details such as purchase price, dividends, and industry.
 - Created the database in MS SQL Server after a few iterations.
-- At this point, I had to make a decision about how I would be extracting the data. Through multiple SSIS packages custom built for each broker OR one script which would consume a Power Query data combination of the data sources. I decided to go with the Power Query option since I was more comfortable with this process and it was more flexible. Once I had consumed the data from mutiple sources in the spreadsheet, I created an SSIS package to target this spreadsheet and write the data to the database.
+- At this point, I had to make a decision about how I would be extracting the data. Through multiple SSIS packages custom built for each broker OR one script which would consume a Power Query data combination of the data sources. I decided to go with the Power Query option since I was more comfortable with this process and it was more flexible. Once I had consumed the data from multiple sources in the spreadsheet, I created an SSIS package to target this spreadsheet and write the data to the database.
 - After building various views for this data, I build a Power BI Visual to track various metrics
 
 ::::{tab-set}
 :::{tab-item} What I learned
-- How delicate some processes of SSIS packages can. Along the way, I managed to resolve everything I came across and build some fault tolerance in.
-- The importance of planning prior to building. I iterated many times on my original database design as I realised new features that would be useful. I probably build three or four iterations of the databases before I settled on one.
-- Dealing with data discrepancies. Over years worth of data from multiple brokers, there were a couple of errors or inconsistancies from their data which threw my fragile SSIS package into disarray. I added further data checks and transformations in to resolve these and future errors.
-- Tracking down data integrety issues takes time. It could be frustrating trying to locate the source of the problem - but ultimately quite rewarding once resolved.
+- How delicate some processes of SSIS packages can be. Along the way, I managed to resolve everything I came across and build some fault tolerance.
+- The importance of planning prior to building. I iterated many times on my original database design as I realized new features that would be useful. I probably built three or four iterations of the databases before I settled on one.
+- Dealing with data discrepancies. Over years worth of data from multiple brokers, there were a couple of errors or inconsistencies from their data which threw my fragile SSIS package into disarray. I added further data checks and transformations to resolve these and future errors.
+- Tracking down data integrity issues takes time. It could be frustrating trying to locate the source of the problem - but ultimately quite rewarding once resolved.
 
 :::
 :::{tab-item} Tools I used
@@ -473,11 +473,11 @@ I wanted a centralised location to track my stock investments - particularly the
 - MS Visual Studio for the SSIS IDE.
 - SQL Server Integration Services to build the packages.
 - MS SQL Server Management Studio to house my database.
-- Excel / Power Query as a middle layer to extract and transform different data sources to.
+- Excel / Power Query as a middle layer to extract and transform different data sources.
 - Power BI to visualize the data.
 :::
 :::{tab-item} What Would I Do Differently Next Time?
-- The data extraction process was still manually performed by me logging on to various broker websites and downloading reports to specific folders, then going into a master spreadsheet and refreshing, and finally running the SSIS package. A good feature to add would be to automate the  extraction of the data from the brokers using Python with tools such as Beautiful Soup or Selenium. That way, more of the data extraction would be automated.
+- The data extraction process was still manually performed by me logging on to various broker websites and downloading reports to specific folders, then going into a master spreadsheet and refreshing, and finally running the SSIS package. A good feature to add would be to automate the extraction of the data from the brokers using Python with tools such as Beautiful Soup or Selenium. That way, more of the data extraction would be automated.
 
 - If I were to do the above step, I might consider building the whole process in Python over SSIS as it is more flexible and customizable.
 
@@ -488,7 +488,7 @@ I wanted a centralised location to track my stock investments - particularly the
 ```{dropdown} Created and Hosted a Commerce Website
 **Overview**
 
-My wife has a business where she creates, buys and sells custom and antique jewelry and asked me to assist her in creating a website.
+My wife has a business where she creates, buys, and sells custom and antique jewelry, and asked me to assist her in creating a website.
 
 **What I did**
 - Researched similar websites to get an understanding of the style as well as obtained images for the website.
@@ -497,20 +497,20 @@ My wife has a business where she creates, buys and sells custom and antique jewe
 
 ::::{tab-set}
 :::{tab-item} What I learned
-- Although this was far from my first time playing with websites, I learnt a lot about the interface of Wordpress and how tricky it can be as a framework, particularly with plugins.
-- I realised quickly that the website would be a lot of work to sell one off antique items as each one required sinificant administration to add it to the website, particularly if it was listed on multiple websites.
-- Over time, we pivotted the website from an online store to more informational as the upkeep was easier.
+- Although this was far from my first time playing with websites, I learned a lot about the interface of WordPress and how tricky it can be as a framework, particularly with plugins.
+- I realized quickly that the website would be a lot of work to sell one-off antique items as each one required significant administration to add to the website, particularly if it was listed on multiple websites.
+- Over time, we pivoted the website from an online store to more informational as the upkeep was easier.
 - How to install SSL certificates.
 
 :::
 :::{tab-item} Tools I used
-- Wordpress. 
+- WordPress. 
 - Photoshop.
 :::
 :::{tab-item} What Would I Do Differently Next Time?
-- I would consider paying the money for a website creating website like Squarespace since the effort put into this was substantial and requires ongoing maintainance for updating plugins or simple enhancements.
+- I would consider paying the money for a website creating a website like Squarespace since the effort put into this was substantial and requires ongoing maintenance for updating plugins or simple enhancements.
 
-- I would consider building a tool to list and remove items across multiple sites to ease the administrational burden.
+- I would consider building a tool to list and remove items across multiple sites to ease the administrative burden.
 :::
 ::::
 ```
